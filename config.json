@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productdtringify",
+        "uuid": 1830305,
+        "checksum": "zhbwzl"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
